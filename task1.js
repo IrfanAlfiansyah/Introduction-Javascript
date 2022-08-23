@@ -1,7 +1,7 @@
 const biodata = {
   name: "Irfan Alfiansyah",
   age: 26,
-  hobby: ["Badminton","Swimming","Games"],
+  hobby: ["Badminton", "Swimming", "Games"],
   isMarried: false,
   schoolList: [
     {
@@ -47,4 +47,3 @@ const biodata = {
 };
 
 console.log(biodata);
-
