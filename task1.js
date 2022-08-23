@@ -39,7 +39,7 @@ const biodata = {
       level: "Beginner",
     },
     {
-      skillName: "Arduino IDE",
+      skillName: "C++",
       level: "Beginner",
     },
   ],
