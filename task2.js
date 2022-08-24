@@ -2,11 +2,12 @@
 
 
 const mtk = 80;
-const bahasaIndonesia = 90;
-const bahasaInggris = 89;
-const ipa = 180;
+const bahasaIndonesia = 80;
+const bahasaInggris = 79;
+const ipa = 79;
 
 let rata_rata = (mtk + bahasaIndonesia + bahasaInggris + ipa) / 4;
+rata_rata = Math.round(rata_rata)
 
 if (
   typeof mtk !== "number" ||

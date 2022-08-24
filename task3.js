@@ -18,4 +18,4 @@ function printSquare(num) {
   }
   return console.log(kotak);
 }
-printSquare(15);
+printSquare(5);
