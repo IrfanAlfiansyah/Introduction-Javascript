@@ -1,3 +1,7 @@
+// 4.  a. mengubah suatu data dengan spread operator 
+//     b. Mengambil data "street dan city" menggunakan destructuring    
+
+
 let data = {
   id: 1,
   name: "leanne Graham",
@@ -21,5 +25,6 @@ let newData = {
 };
 console.log(newData);
 
-let { street, suite, city, zipcode } = data.address;
-console.log(`Saya beralamat dijalan ${street} kota ${city}`);
+let { street, city} = data.address;
+console.log(street);
+console.log(city);

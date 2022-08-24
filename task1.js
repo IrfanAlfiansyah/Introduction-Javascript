@@ -1,3 +1,6 @@
+//1. Membuat variabel dengan nama biodata dan tipe data object dengan value dan tipe data yang diberikan
+
+
 const biodata = {
   name: "Irfan Alfiansyah",
   age: 26,

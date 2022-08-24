@@ -1,7 +1,10 @@
+//2. membuat program menghitung rata-rata nilai UN
+
+
 const mtk = 80;
 const bahasaIndonesia = 90;
 const bahasaInggris = 89;
-const ipa = 69;
+const ipa = 180;
 
 let rata_rata = (mtk + bahasaIndonesia + bahasaInggris + ipa) / 4;
 

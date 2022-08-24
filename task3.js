@@ -1,3 +1,6 @@
+//3. Membuat program dengan perintah printSquare dengan output persegi yang bolong ditengahnya.
+
+
 function printSquare(num) {
   let kotak = "";
   if (typeof num !== "number") {
@@ -15,4 +18,4 @@ function printSquare(num) {
   }
   return console.log(kotak);
 }
-printSquare(5);
+printSquare(15);
